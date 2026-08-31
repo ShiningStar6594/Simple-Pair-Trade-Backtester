@@ -98,6 +98,4 @@ The test suite covers:
 pair_trade_backtest/   Backtest engine, Price loader, sweep, metrics, and charts
 tests/                 Deterministic behavioral tests
 data/                  Frozen Universe definition
-reports/               Locally generated metrics and figures
-docs/adr/              Design decisions
 ```
