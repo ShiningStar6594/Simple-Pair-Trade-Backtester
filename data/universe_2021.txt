@@ -1,0 +1,56 @@
+# Frozen Universe: US large-cap Banks + Capital Markets.
+# Freeze as-of ~2021-01 (not today's survivors). Sample window: 2021-01-01 to 2025
+# (Yahoo end date 2026-01-01). About 3 formation/trading cycles, not 4.
+# Yahoo has no usable bars for SIVB / FRC / SBNY (failed 2023) and sometimes 404s
+# BK / CMA as "delisted". Those five were swapped for still-quoted ~2021 names:
+# WAL, WBS, FHN, EWBC, SNV, IVZ. Not an S&P 500 scrape.
+
+# Banks
+JPM
+BAC
+WFC
+C
+USB
+PNC
+TFC
+COF
+WAL
+STT
+FITB
+HBAN
+RF
+KEY
+CFG
+MTB
+NTRS
+WBS
+ZION
+FHN
+EWBC
+SNV
+
+# Capital Markets
+GS
+MS
+SCHW
+BLK
+SPGI
+MCO
+ICE
+CME
+MSCI
+TROW
+BEN
+AMP
+RJF
+NDAQ
+CBOE
+MKTX
+IBKR
+LPLA
+TW
+JEF
+FDS
+SF
+EVR
+IVZ
