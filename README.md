@@ -1,3 +1,7 @@
+# BackGround and initative
+CS and FINA student try to apply knowledge from both fields, and learning GitHub, working with AI agents, CLI Terminal and different tools, building a small personal project
+
+
 # Pair Trade Backtesting System
 
 A research-oriented Python backtester for statistical equity Pairs in the US
